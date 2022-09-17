@@ -1,5 +1,5 @@
 # Home Drive
 
-This is a home version of drive. `npm install`
+This is a home version of drive.
 
 ## Forked Repository
